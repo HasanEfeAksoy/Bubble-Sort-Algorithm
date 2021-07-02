@@ -2,4 +2,4 @@
 Bubble Sort Algorithm with Python Pygame.
 
 You have to need pygame module to run 'main.py'.
-Basic bubble sort algorithm with pyrhon/pygame.
+Basic sort algorithm with pygame module.
